@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/skin">
+        <file>tree1.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>chime.wav</file>
+    </qresource>
+</RCC>
